@@ -20,8 +20,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Links
 
-- Repositorio URL: [https://github.com/EduardoBraz1/QR-code](https://github.com/EduardoBraz1/QR-code)
-- Deploy URL: [Add live site URL here](https://your-live-site-url.com)
+- Repositorio: [Clique aqui para o Repositorio](https://github.com/EduardoBraz1/QR-code)
+- Deploy: [Clique aqui para ir ao deploy]([https://your-live-site-url.com](https://neon-valkyrie-78653e.netlify.app/))
 
 ## Meu processo
 
